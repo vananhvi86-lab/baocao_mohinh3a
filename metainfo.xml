@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="EDECA1FC-50AB-485F-BA58-F64E37A65437" version="0" availableOffline="1">
+<presentation guid="9AD12EAB-0597-4DCE-B6BB-0B062BDA840E" version="0" availableOffline="1">
 	<info>
 		<title>BÀI TRÌNH CHIẾU -MÔ HÌNH 3A</title>
 		<description/>
 	</info>
-	<files index="id58" thumbnail="id125" totalSize="72622246">
+	<files index="id58" thumbnail="id125" totalSize="72622254">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/slide1.js</file>
 		<file id="id2">data/slide1.css</file>
